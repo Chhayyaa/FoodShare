@@ -20,7 +20,7 @@ Access it through the url <a   https://d35fd1qxbttd31.cloudfront.net/   >
 
 ## Working / Signing in
 
-Sign in as `cchauhan_be24@thapar.edu` "zxcvbnmL7" (provider), `riya.connect56@gmail.com` "Wwwwwwww8" (receiver), or 'chhayaa799@gmail.com' "cloudCC999" (admin). Notifications are sent via email to the registered emails.
+Sign in as `cchauhan_be24@thapar.edu` "zxcvbnmL7" (provider), `riya.connect56@gmail.com` "Wwwwwwww8" (receiver), or `chhayaa799@gmail.com` "cloudCC999" (admin). Notifications are sent via email to the registered emails.
 One can also register themselves as Provider or Receiver.
 
 Receiver can claim listed food.
